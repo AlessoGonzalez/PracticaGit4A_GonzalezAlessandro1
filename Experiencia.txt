@@ -1,2 +1,0 @@
-Java, Visual Studio, VSN, Python
-Acces, SQL, Oracle
